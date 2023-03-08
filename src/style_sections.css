@@ -660,34 +660,7 @@
     }
    } */
    
-   /********************************************************* sektion 3 *********************************************************************/
-  
-  
-.section3 {
-  overflow:hidden;
-  padding:35px 0 65px;
-  position:relative;
-  /* background:linear-gradient(#fff,#eef4f9); */
-  text-align:center
- }
- .section3-header {
-  margin-bottom:15px
- }
- .section3-images {
-  height:235px;
-  margin-left:243px;
-  position:relative;
-  transform:scale(.348);
-  transform-origin:50% 0
- }
- .section3-image {
-  position:absolute
- }
- .section3-image img {
-  max-width:none;
-  pointer-events:none
- }
-  /******************************************** bokse portefolio ***********************/
+   /********************************************************* bokse portefolio  *********************************************************************/
 
 .site-examples {
     display:-ms-flexbox;
@@ -705,7 +678,7 @@
    .site-examples-item-image-desktop,
    .site-examples-item-image-mobile {
     overflow:hidden;
-    background:#fff;
+    /* background:#fff; */
     border:1px solid #baddfd;
     border-radius:6px
    }
